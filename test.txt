@@ -9,7 +9,11 @@
 	<h4> i do edited the version</h4>
 	<h4> i do edited the version 1.5</h4>
 	<h4> i do edited the version 1.6</h4>
+
 	<h4> i do edited the version 1.6 make conflict</h4>
+
+	<h4> making the conflict</h4>
+
 
 </body>
 </html>
